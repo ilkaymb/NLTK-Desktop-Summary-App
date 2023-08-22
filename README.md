@@ -15,9 +15,12 @@ Bu masaüstü uygulama, kullanıcıların metin belgelerini özetlemelerine olan
 ## Project UI
 Main Page
 ![ana sayfa](https://github.com/ilkaymb/NLTK-Desktop-Summary-App/assets/73322500/c0a64bd4-75d5-41a3-8d07-0a4f6de9fff4)
+
 Summary Page
 ![özet ekranı](https://github.com/ilkaymb/NLTK-Desktop-Summary-App/assets/73322500/f1ab57d0-17ed-49d6-a70b-df9433bb9676)
+
 Rogue Score Page
 ![rogue skoru](https://github.com/ilkaymb/NLTK-Desktop-Summary-App/assets/73322500/bb35617b-9cd4-4c72-828e-eec381a1274d)
+
 Graph Page
 ![graf oluşturma 1](https://github.com/ilkaymb/NLTK-Desktop-Summary-App/assets/73322500/1eb9f545-7ae1-4576-b8ea-c8832b108e8b)
