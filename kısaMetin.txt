@@ -1,0 +1,1 @@
+This is a sample text. We use NLTK to split text into sentences. She is swimming. She swimming. is swimming. a.
